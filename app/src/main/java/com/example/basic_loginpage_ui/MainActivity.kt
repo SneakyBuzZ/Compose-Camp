@@ -10,6 +10,9 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
+//            This is my SignUp Page
+//            SignUpScreen()
+//            This is my Home Page
             HomeScreen()
         }
     }

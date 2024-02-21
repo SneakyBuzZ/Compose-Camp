@@ -56,7 +56,7 @@ fun LoginField() {
             ) {
                 Text(
                     text = "Create Account",
-                    color = Color.DarkGray,
+                    color = Color.LightGray,
                     fontSize = 28.sp,
                     fontFamily = nunitonSans
                 )

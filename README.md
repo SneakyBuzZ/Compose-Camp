@@ -5,3 +5,4 @@ Jazz Beat is a stylish and innovative music application designed with Jetpack Co
 App contains different templates made for different components. <br>
 1. "templates" File : It contains all the templates
 2. "MainActivity" File : Run the code on the emulator through this file
+3. "SignUpScreen" File : It contains routes for all the templates I made for the App

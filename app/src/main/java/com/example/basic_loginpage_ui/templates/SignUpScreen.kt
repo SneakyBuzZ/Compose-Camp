@@ -63,7 +63,7 @@ fun SignUpScreen() {
                     Font(R.font.nunito_sans_extrabold)
                 )
                 Text(
-                    text = "Cool Vibe , Hot Tunes 🎵",
+                    text = "Cool Vibe! Hot Tunes!!",
                     fontSize = 14.sp,
                     color = Color.LightGray,
                     fontFamily = nunitoSans
